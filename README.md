@@ -16,8 +16,8 @@ This project is meant for learning and experimental purposes, by no means this i
 
   # Snapshots
 
-  ![Screenshot 2024-10-06 135111](https://github.com/user-attachments/assets/01ddcdfb-4193-4715-a049-d92649097acf)
+  ![Screenshot 2024-10-06 135111](https://github.com/PankajKandari08/CodeEcho/blob/main/CodeEcho/assests/Screenshot%202025-05-31%20185919.jpg)
 
-  ![Screenshot 2024-10-06 135225](https://github.com/user-attachments/assets/ddd2a519-6f58-4c30-b9c1-1a62ef8ce963)
+  ![Screenshot 2024-10-06 135225](https://github.com/PankajKandari08/CodeEcho/blob/main/CodeEcho/assests/Screenshot%202025-05-31%20190149.jpg)
   
-  ![Screenshot 2024-10-06 135324](https://github.com/user-attachments/assets/fdced105-d52d-4cb1-887b-2559fad88b81)
+  ![Screenshot 2024-10-06 135324](https://github.com/PankajKandari08/CodeEcho/blob/main/CodeEcho/assests/Screenshot%202025-05-31%20190429.jpg)
