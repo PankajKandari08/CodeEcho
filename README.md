@@ -1,11 +1,12 @@
 # CodeEcho
 
-A minimalistic code editor built using Java swing, flatlaf and RSyntaxTextArea. 
-This project is meant for learning and experimental purposes, by no means this is a production-ready code editor, but rather a fun attempt to learn and create my own code editor
+A minimalistic code editor built using Java swing, flatlaf and RSyntaxTextArea. This Code editor also supports basic voice commands like delete file , rename file , open terminal etc.
+This project is meant for learning and experimental purposes, by no means this is a production-ready code editor, but rather a fun attempt to learn and create my own code editor.
 
 ![Screenshot 2024-10-06 135007](https://github.com/PankajKandari08/CodeEcho/blob/main/CodeEcho/assests/Screenshot%202025-05-31%20185919.jpg)
 
 # Features
+* Voice Command 
 * Syntax highlighting
 * Auto save
 * adding, deleting or renaming files
