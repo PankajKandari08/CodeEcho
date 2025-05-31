@@ -20,7 +20,7 @@ public class VoiceAssistant extends JPanel {
     private String lastCommand = "";
 
     // Replace with your actual Google Speech API key
-    private static final String API_KEY = "AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw";
+    private static final String API_KEY = "Google-API-Key";
 
     public VoiceAssistant(App app) {
         this.app = app;
