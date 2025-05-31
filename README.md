@@ -1,4 +1,4 @@
-# CodeLite
+# CodeEcho
 
 A minimalistic code editor built using Java swing, flatlaf and RSyntaxTextArea. 
 This project is meant for learning and experimental purposes, by no means this is a production-ready code editor, but rather a fun attempt to learn and create my own code editor
